@@ -19,4 +19,4 @@ Você pode usar este algoritmo em cadastros de pessoas por exemplo, para indexar
 
 ## Desenvolvedores
 <a href="//jayralencar.com.br" target="_blank"><img height="150" src="http://jayralencar.com.br/wp-content/uploads/2015/04/logo_pequeno.fw_.png" ></a>
-<a href="//clubedosgeeks.com.br" target="_blank"><img height="150" src="http://clubedosgeeks.com.br/wp-content/uploads/2015/10/cdg_black.png"></a>
+<a href="//clubedosgeeks.com.br" target="_blank"><img height="150" title="Clube dos Geeks" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/logo_cdg.png"></a>
